@@ -1,1 +1,12 @@
-
+Starting program: /home/runner/Test3Session2/a.out 
+warning: Error disabling address space randomization: Operation not permitted
+enter the numerator and denomenator of the fraction
+1
+5
+enter the numerator and denomenator of the fraction
+1
+4
+enter the numerator and denomenator of the fraction
+13
+1
+13/1 is greatest fraction of all[Inferior 1 (process 1478) exited normally]

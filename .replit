@@ -1,2 +1,2 @@
 language = "bash"
-run = "pwd"
+run = "pwd"1
