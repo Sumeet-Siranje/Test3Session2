@@ -1,2 +1,2 @@
-language = "bash"
-run = "pwd"1
+language = "c"
+run = ""
